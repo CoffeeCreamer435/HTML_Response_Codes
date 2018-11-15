@@ -1,0 +1,21 @@
+{
+  "name": "http-response-info",
+  "version": "1.0.0-2C",
+  "description": "All response header codes definition",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test response_codes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoffeeCreamer435/HTML_Response_Codes.git"
+  },
+  "author": "Ido435",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoffeeCreamer435/HTML_Response_Codes/issues"
+  },
+  "homepage": "https://github.com/CoffeeCreamer435/HTML_Response_Codes#readme",
+  "dependencies": {},
+  "keywords": ["HTML", "Response", "Codes"]
+}
