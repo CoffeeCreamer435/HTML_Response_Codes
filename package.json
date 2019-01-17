@@ -1,6 +1,6 @@
 {
   "name": "http-response-info",
-  "version": "1.0.0-2C",
+  "version": "1.0.0-2D",
   "description": "All response header codes definition",
   "main": "index.js",
   "scripts": {
